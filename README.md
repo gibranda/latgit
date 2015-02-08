@@ -1,2 +1,5 @@
 # latgit
-Belaajr Membuat Repository
+
+
+Belajar Mmebat repositori
+ada perubahan dikit
